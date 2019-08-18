@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/flux-tutorial/static/js/main.78230790.chunk.js",
+    "main.js.map": "/flux-tutorial/static/js/main.78230790.chunk.js.map",
+    "runtime~main.js": "/flux-tutorial/static/js/runtime~main.2f0d711f.js",
+    "runtime~main.js.map": "/flux-tutorial/static/js/runtime~main.2f0d711f.js.map",
+    "static/css/2.b62f5c36.chunk.css": "/flux-tutorial/static/css/2.b62f5c36.chunk.css",
+    "static/js/2.8887cf60.chunk.js": "/flux-tutorial/static/js/2.8887cf60.chunk.js",
+    "static/js/2.8887cf60.chunk.js.map": "/flux-tutorial/static/js/2.8887cf60.chunk.js.map",
+    "index.html": "/flux-tutorial/index.html",
+    "precache-manifest.798c02ad2a6f9060b6b83c535b2420fc.js": "/flux-tutorial/precache-manifest.798c02ad2a6f9060b6b83c535b2420fc.js",
+    "service-worker.js": "/flux-tutorial/service-worker.js",
+    "static/css/2.b62f5c36.chunk.css.map": "/flux-tutorial/static/css/2.b62f5c36.chunk.css.map"
+  }
+}
